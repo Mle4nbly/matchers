@@ -8,7 +8,7 @@ export function listSorting (heroList) {
         }
 
         return 0;
-    })
+    });
 
     return heroList;
 }
